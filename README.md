@@ -29,3 +29,4 @@ The two recommendations for further development would be:
   1.	To have a way to search with caps and lower case. Some users might not realize that the Filter Search is cap sensitive and might get frustrated or think that their search    did not come up with any results due to the miscommunication. 
 
   2.	If no searches come up with the information you provided, we should let the users know by a pop up or something written on the table stating, “no matches found”. That way they know there is no data with the information they provided instead of thinking an error occurred.
+  
